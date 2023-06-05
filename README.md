@@ -56,7 +56,20 @@ D7 = X Y Z
 
 ### Procedure
 
+Step-1:
+create module encoder and decoder.
 
+Step-2:
+Get inputs and outputs for encoders and decoders.
+
+Step-3:
+perform or operation for encoder and and logic for decoders.
+
+Step-4:
+perform RTL LOGIC and get waveform. 
+
+Step-5:
+End the module.
 
 
 ### PROGRAM 
@@ -98,28 +111,37 @@ D7 = X Y Z
 ### RTL LOGIC  
 #### ENCODER
 
+![Screenshot (238)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/4c06bc58-e8a0-4b14-ba96-20f8efddc801)
 
 
 #### DECODER
 
+![Screenshot (239)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/a0c11ef0-1625-47ba-8cb0-b5a580469fd3)
 
-![Uploading Screenshot (239).png…]()
+
 
 
 ### TIMING DIGRAMS  
 #### ENCODER
-![Uploading Screenshot (234).png…]()
+
+![Screenshot (234)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/2158fee9-74d3-46a3-bb92-6005be8636c6)
 
 
 
 #### DECODER
+![Screenshot (235)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/6304c066-b2b0-4e5e-a6de-fbbc6d341df2)
+
 
 
 ### TRUTH TABLE 
 #### ENCODER
+![Screenshot (236)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/e69f6084-0065-43e7-bfd5-8d261d102fb4)
 
 
 #### DECODER
+![Screenshot (237)](https://github.com/vishnupriyaramesh17/Experiment-08-Encoders-and-decoders-/assets/119393589/d289f45e-46ea-480b-a8a1-6d9f82ed023d)
 
 
 ### RESULTS 
+Thus the program to design encoder and decoder is successfully completed.
+
